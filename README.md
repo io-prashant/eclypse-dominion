@@ -1,2 +1,6 @@
 # eclypse-dominion
-A game which is made completely by Codex And which is a MOBA game like League of Legends or Dota 2
+
+A MOBA game concept in the style of League of Legends / Dota 2.
+
+## Status
+Concept documented here only - this repo has no game code yet.
